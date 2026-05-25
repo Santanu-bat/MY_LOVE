@@ -29,7 +29,7 @@ const QUESTIONS: Question[] = [
   {
     question: 'Ami Kii Baynaa kora thakii khuubbb...??',
     options: ['Chobiiiii Dibi', 'Amay Biya korbiii', 'Ghumii Ghumiii','Jol Khaa'],
-    correct: 1,
+    correct: 0,
   },
   {
     question: 'Ami Kise raag kori...??',
