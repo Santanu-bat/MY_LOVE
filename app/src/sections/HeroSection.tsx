@@ -103,7 +103,7 @@ export default function HeroSection() {
           />
 
           <p className="text-moonlight/50 font-body text-xs md:text-sm uppercase tracking-[0.35em] mb-8">
-            Amar Priyo manush Tir jonno aktu Chithi
+            Amar Priyo manush Tir jonno akta Chithi
           </p>
 
           <h1

@@ -9,37 +9,37 @@ const MEMORIES = [
     title: 'Our First Long Walk',
     date: 'July 13, 2025',
     description: '',
-    image: '/assets/5/Shov.jpeg',
+    image: import.meta.env.BASE_URL + 'assets/5/Shov.jpeg',
   },
   {
     title: 'Our 5/10 Wala Special Day 👉👈',
     date: 'March 25',
     description: '',
-    image: '/assets/5/10.jpeg',
+    image: import.meta.env.BASE_URL + 'assets/5/10.jpeg',
   },
   {
     title: 'First Time Hedua Tour',
     date: 'May 14, 2026',
     description: '',
-    image: '/assets/hedua.jpeg',
+    image: import.meta.env.BASE_URL + 'assets/hedua.jpeg',
   },
   {
     title: 'First Time Hath Dia khaiya Deoa',
     date: 'May 20, 2026',
     description: '',
-    image: '/assets/Hath.jpeg',
+    image: import.meta.env.BASE_URL + 'assets/Hath.jpeg',
   },
   {
     title: 'First Time Bel Ful Deoa',
     date: 'May 20, 2026',
     description: '',
-    image: '/assets/bel.jpg',
+    image: import.meta.env.BASE_URL + 'assets/bel.jpg',
   },
   {
     title: 'Best of the best',
     date: 'Tor satha katano Protita Muhurtoo',
     description: 'Jar Kono Date naii...❤️',
-    image: '/assets/5/US.jpeg',
+    image: import.meta.env.BASE_URL + 'assets/5/US.jpeg',
   },
 ];
 
